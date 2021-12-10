@@ -1,0 +1,30 @@
+2021-12-10 19:30:52 - INFO - "GET / HTTP/1.1" 200 1219
+2021-12-10 19:30:52 - INFO - "GET /static/style.css HTTP/1.1" 200 648
+2021-12-10 20:49:47 - INFO - "GET / HTTP/1.1" 200 1219
+2021-12-10 20:49:47 - INFO - "GET /static/style.css HTTP/1.1" 304 0
+2021-12-10 20:49:47 - INFO - "GET /employees HTTP/1.1" 200 2
+2021-12-10 20:56:20 - ERROR - AttributeError in 0 on line 0
+2021-12-10 20:56:20 - ERROR - "POST /employees HTTP/1.1" 500 1063855
+2021-12-10 20:58:48 - ERROR - AttributeError in 0 on line 0
+2021-12-10 20:58:48 - ERROR - "POST /employees HTTP/1.1" 500 1064353
+2021-12-10 20:58:56 - ERROR - AttributeError in /Users/kyongli/development/seir_penguin/employee_wages/backend/app/http/controllers/EmployeeController.py on line 33
+2021-12-10 20:58:56 - ERROR - "POST /employees HTTP/1.1" 500 1050600
+2021-12-10 21:00:37 - ERROR - "POST /employees HTTP/1.1" 500 59
+2021-12-10 21:00:37 - ERROR - "POST /employees HTTP/1.1" 500 59
+2021-12-10 21:00:57 - ERROR - "POST /employees HTTP/1.1" 500 59
+2021-12-10 21:00:57 - ERROR - "POST /employees HTTP/1.1" 500 59
+2021-12-10 21:00:57 - INFO - "POST /employees HTTP/1.1" 200 164
+2021-12-10 21:01:27 - ERROR - AttributeError in 0 on line 0
+2021-12-10 21:01:27 - ERROR - "POST /employees HTTP/1.1" 500 1064345
+2021-12-10 21:03:31 - ERROR - AttributeError in 0 on line 0
+2021-12-10 21:03:31 - ERROR - "POST /employees HTTP/1.1" 500 1064345
+2021-12-10 21:09:01 - ERROR - "PUT /employees/1 HTTP/1.1" 500 59
+2021-12-10 21:09:01 - ERROR - "PUT /employees/1 HTTP/1.1" 500 59
+2021-12-10 21:11:10 - INFO - "GET /employees HTTP/1.1" 200 333
+2021-12-10 21:11:10 - INFO - "GET /employees/1 HTTP/1.1" 200 164
+2021-12-10 21:11:10 - INFO - "GET /employees/1 HTTP/1.1" 200 164
+2021-12-10 21:11:10 - INFO - "PUT /employees/1 HTTP/1.1" 200 171
+2021-12-10 21:11:10 - INFO - "GET /employees/1 HTTP/1.1" 200 169
+2021-12-10 21:11:10 - INFO - "GET /employees HTTP/1.1" 200 338
+2021-12-10 21:13:41 - INFO - "DELETE /employees/1 HTTP/1.1" 200 171
+2021-12-10 21:13:41 - INFO - "GET /employees HTTP/1.1" 200 167
